@@ -1,0 +1,8 @@
+name = "webapp"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-04-13"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+SUPABASE_URL = "https://wbxcemycxplquyumsgxn.supabase.co"
+SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndieGNlbXljeHBscXV5dW1zZ3huIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzMDE3NzIsImV4cCI6MjA5NDg3Nzc3Mn0.CYh7vTSS2r-wr0vPl1fbPiBcZfZiEmrDfu8ba0Lgw2c"

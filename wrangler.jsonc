@@ -9,28 +9,5 @@
   "vars": {
     "SUPABASE_URL": "https://wbxcemycxplquyumsgxn.supabase.co",
     "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndieGNlbXljeHBscXV5dW1zZ3huIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzMDE3NzIsImV4cCI6MjA5NDg3Nzc3Mn0.CYh7vTSS2r-wr0vPl1fbPiBcZfZiEmrDfu8ba0Lgw2c"
-  },
-  // SUPABASE_SERVICE_ROLE_KEY définie via: wrangler secret put SUPABASE_SERVICE_ROLE_KEY
-  // "kv_namespaces": [
-  //   {
-  //     "binding": "MY_KV_NAMESPACE",
-  //     "id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  //   }
-  // ],
-  // "r2_buckets": [
-  //   {
-  //     "binding": "MY_BUCKET",
-  //     "bucket_name": "my-bucket"
-  //   }
-  // ],
-  // "d1_databases": [
-  //   {
-  //     "binding": "MY_DB",
-  //     "database_name": "my-database",
-  //     "database_id": ""
-  //   }
-  // ],
-  // "ai": {
-  //   "binding": "AI"
-  // }
+  }
 }
